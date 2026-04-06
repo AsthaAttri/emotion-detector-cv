@@ -52,9 +52,7 @@ python project1_webcam.py
 ```
 
 ##  Sample Output
-
-> Real-time webcam feed with bounding boxes around detected faces and emotion labels displayed above each face.
-
+![Demo](demo.png)
 ## ⚠️ Limitations
 
 - Emotion detection accuracy depends on lighting conditions and face angle
